@@ -1,0 +1,8 @@
+platform :ios, '10.0'
+
+use_frameworks!
+target 'MapboxSample' do
+
+pod 'Mapbox-iOS-SDK', '3.7.3'
+
+end
